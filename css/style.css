@@ -192,6 +192,37 @@ h1,h2,h3,h4,h5,h6{
 	z-index: 999999 !important;
 }
 
+.list-productos .item-media img{
+	width: 80px;
+}
+
+.list-productos .item-title{
+	color: #000;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.list-productos .item-subtitle{
+	color: #000;
+	font-size: 12px;
+	font-weight: 300;
+}
+
+.list-productos .item-after{
+	color: #000;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+.list-productos li{
+	box-shadow: 0px 0px 10px 5px #f2f2f2;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+
+
+
 
 
 
